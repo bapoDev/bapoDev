@@ -1,16 +1,18 @@
-### Hi there 👋
+# Welcome to my profile !
+I'm Maxence, a french developer (still learning).
+If you want to know my age : ${{\lim_{x \to 0}{ {e^{81x} - 1} \over {x} }} - {\sum\limits_{k=0}^\infty {\left({63 \over {64}}\right)^{k}}}}$
 
-<!--
-**bapoDev/bapoDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## My languages :
 
-Here are some ideas to get you started:
+ - Python
+ - JavaScript
+ - HTML/CSS
+ - C# (Still learning)
+ - Kotlin
+ 
+## My objectives :
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Learn C++
+- Create games
+
+And my life objective concerning programming is programming my own set of softwares and apps to manage my own life without using any third-party services.
