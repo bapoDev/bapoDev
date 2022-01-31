@@ -1,6 +1,6 @@
 # Welcome to my profile !
 I'm Maxence, a french developer (still learning).
-If you want to know my age : ${{\lim_{x \to 0}{ {e^{81x} - 1} \over {x} }} - {\sum\limits_{k=0}^\infty {\left({63 \over {64}}\right)^{k}}}}$
+If you want to know my age : 2x - 34 = 0
 
 ## My languages :
 
